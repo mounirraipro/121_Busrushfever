@@ -1,0 +1,380 @@
+{
+  "name": "Bus Rush Fever",
+  "domain": "busrushfever.com",
+  "slug": "busrushfever",
+  "genre": "Simulation",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://html5.gamemonetize.co/44fm06aqx7dz3mq1u9oyowc93ns21n3p/",
+  "embedSource": "GameMonetize - Bus Park 3D",
+  "seo": {
+    "title": "Bus Rush Fever Online - Free Browser Game",
+    "description": "Play Bus Rush Fever online free. Enjoy a browser bus parking challenge focused on smooth movement, tight spaces, and steady decisions with no download and no account required.",
+    "keywords": [
+      "Bus Rush Fever",
+      "Bus Rush Fever online",
+      "Bus Rush Fever free",
+      "free online game",
+      "browser game",
+      "simulation game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Bus Rush Fever online",
+    "heroSubtitle": "Open Bus Rush Fever in your browser and start a quick, focused simulation session.",
+    "lede": "Bus Rush Fever is a browser bus parking challenge focused on smooth movement, tight spaces, and steady decisions. It loads through a local play page, keeps the controls simple, and works well for short sessions on desktop or mobile.",
+    "stats": [
+      {
+        "value": "Free",
+        "label": "Browser Play"
+      },
+      {
+        "value": "0",
+        "label": "Downloads"
+      },
+      {
+        "value": "1",
+        "label": "Playable Route"
+      },
+      {
+        "value": "Quick",
+        "label": "Sessions"
+      }
+    ],
+    "about": {
+      "kicker": "Simulation browser game",
+      "headline": "A simple simulation game with clear goals and instant play.",
+      "paragraph1": "Bus Rush Fever gives you a direct objective: move the bus into marked spaces while avoiding cones, traffic, and tight corners. The best runs come from reading the layout before acting and making small, controlled choices.",
+      "paragraph2": "There is no account flow or software install on this site. Open the Play page, let the game load, and focus on one clean attempt at a time."
+    },
+    "howToPlay": {
+      "headline": "How to play Bus Rush Fever",
+      "subheading": "Start with the basic controls, then improve by making cleaner decisions each round."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Go to the Play page and let the game load inside the local wrapper."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Layout",
+        "desc": "Take a moment to understand the goal, obstacles, and safest first move."
+      },
+      {
+        "icon": "hand",
+        "title": "Use the Controls",
+        "desc": "Use mouse, keyboard, or touch controls as shown inside the game window."
+      },
+      {
+        "icon": "target",
+        "title": "Play With Intention",
+        "desc": "Make wide turns, correct early, and avoid rushing when the parking lane gets narrow."
+      },
+      {
+        "icon": "refresh",
+        "title": "Retry and Improve",
+        "desc": "Short attempts make it easy to replay, notice patterns, and improve without pressure."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Beginner",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Skill",
+        "icon": "target",
+        "color": "#2563eb",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Focus",
+        "icon": "eye",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Challenge",
+        "icon": "zap",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Mastery",
+        "icon": "trophy",
+        "color": "#7c3aed",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "Start from the Play page without installing an app or creating an account."
+      },
+      {
+        "icon": "target",
+        "title": "Clear Objective",
+        "desc": "Every session asks you to move the bus into marked spaces while avoiding cones, traffic, and tight corners, so the goal is easy to understand."
+      },
+      {
+        "icon": "device",
+        "title": "Desktop and Mobile",
+        "desc": "The wrapper is responsive and lets the embedded game fill the available screen."
+      },
+      {
+        "icon": "image",
+        "title": "Readable Action",
+        "desc": "The game favors visible goals and straightforward choices over confusing menus."
+      },
+      {
+        "icon": "shield",
+        "title": "General Audience Copy",
+        "desc": "The page avoids misleading claims, real-money promises, and unofficial ownership language."
+      },
+      {
+        "icon": "refresh",
+        "title": "Good for Short Breaks",
+        "desc": "Rounds are easy to restart, making the game suitable for quick play sessions."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Bus Rush Fever?",
+        "a": "Bus Rush Fever is a free browser game where the goal is to move the bus into marked spaces while avoiding cones, traffic, and tight corners."
+      },
+      {
+        "q": "Is Bus Rush Fever free?",
+        "a": "Yes. You can open the Play page and start without paying, downloading, or registering."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "Yes. The game wrapper is designed for modern mobile and desktop browsers."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is required. The site sends you directly to the playable browser route."
+      },
+      {
+        "q": "Is this an official app page?",
+        "a": "No. This is an independent browser play page that embeds a free HTML5 game source."
+      },
+      {
+        "q": "What should beginners focus on?",
+        "a": "Make wide turns, correct early, and avoid rushing when the parking lane gets narrow."
+      }
+    ],
+    "cta": {
+      "headline": "Ready to play Bus Rush Fever?",
+      "subtext": "Open the Play page and start a quick browser session with no download."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open Bus Rush Fever",
+        "desc": "Visit the Play page and wait a moment for the embedded game to load."
+      },
+      {
+        "title": "Learn the Controls",
+        "desc": "Use mouse, keyboard, or touch controls as shown inside the game window."
+      },
+      {
+        "title": "Improve Each Attempt",
+        "desc": "Make wide turns, correct early, and avoid rushing when the parking lane gets narrow."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "Can I play Bus Rush Fever online?",
+        "a": "Yes. Bus Rush Fever runs from the Play page through a local wrapper around a free HTML5 game embed."
+      },
+      {
+        "q": "Is a download required?",
+        "a": "No. The game runs in the browser, so you do not need to install an app."
+      },
+      {
+        "q": "What is the main goal?",
+        "a": "The goal is to move the bus into marked spaces while avoiding cones, traffic, and tight corners."
+      },
+      {
+        "q": "What devices are supported?",
+        "a": "Modern desktop, tablet, and mobile browsers are supported by the page layout."
+      },
+      {
+        "q": "Why use a local game route?",
+        "a": "The local route keeps the site structure consistent while storing the real external source separately."
+      },
+      {
+        "q": "Is the page written for a general audience?",
+        "a": "Yes. The content avoids unsafe claims, aggressive language, and misleading monetization promises."
+      },
+      {
+        "q": "How can I get better?",
+        "a": "Slow down, read the board or road first, and replay short sessions with one improvement goal."
+      },
+      {
+        "q": "Is this official publisher content?",
+        "a": "No. It is independently written informational and play-page content."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Bus Rush Fever is built around a simple browser-game loop: understand the layout, make a careful move, and improve through short retries. Your main objective is to move the bus into marked spaces while avoiding cones, traffic, and tight corners.",
+    "steps": [
+      {
+        "title": "Start From the Play Page",
+        "desc": "Open the local play route and wait for the game iframe to finish loading."
+      },
+      {
+        "title": "Check the Objective",
+        "desc": "Before acting, identify the target, obstacles, and any limits shown inside the game."
+      },
+      {
+        "title": "Make Controlled Moves",
+        "desc": "Make wide turns, correct early, and avoid rushing when the parking lane gets narrow."
+      }
+    ],
+    "mechanic": {
+      "title": "Core Mechanic",
+      "desc": "The central skill in Bus Rush Fever is control. Instead of rushing, use each move to create a better next position."
+    },
+    "difficultyProgression": "Early attempts are best used to learn the controls and visual cues. As you improve, focus on cleaner routes, smarter positioning, and fewer avoidable mistakes in each bus rush fever session.",
+    "tips": [
+      {
+        "title": "Pause before the first move",
+        "desc": "A few seconds of planning often prevents the mistakes that cause restarts."
+      },
+      {
+        "title": "Keep your next move open",
+        "desc": "Do not focus only on the current action. Think about what it makes possible afterward."
+      },
+      {
+        "title": "Use restarts as practice",
+        "desc": "A restart is useful when it teaches you which choice created the problem."
+      },
+      {
+        "title": "Play in short sessions",
+        "desc": "Short, focused attempts are better than long sessions where attention drops."
+      },
+      {
+        "title": "Learn the visual cues",
+        "desc": "The screen usually gives enough information if you slow down and read it carefully."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Practical tips for playing Bus Rush Fever with better control and fewer wasted attempts.",
+    "introParagraph": "These short guides explain how Bus Rush Fever works, what beginners should focus on, and how to build more consistent play habits.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Bus Rush Fever",
+        "excerpt": "A simple beginner guide to opening Bus Rush Fever, learning the controls, and understanding the main objective.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "guide",
+        "sections": [
+          {
+            "heading": "What Is Bus Rush Fever?",
+            "paragraphs": [
+              "Bus Rush Fever is a browser bus parking challenge focused on smooth movement, tight spaces, and steady decisions. The page is designed for instant browser play through a local wrapper.",
+              "The objective is straightforward: move the bus into marked spaces while avoiding cones, traffic, and tight corners. That clear goal makes the game easy to start, while better timing and planning create room to improve."
+            ]
+          },
+          {
+            "heading": "How to Start",
+            "paragraphs": [
+              "Open the Play page and let the embedded game load. You do not need an account, a download, or a separate launcher.",
+              "Use mouse, keyboard, or touch controls as shown inside the game window."
+            ]
+          },
+          {
+            "heading": "Your First Session",
+            "paragraphs": [
+              "Make wide turns, correct early, and avoid rushing when the parking lane gets narrow.",
+              "Treat the first few attempts as practice. Learn what the game rewards, what causes mistakes, and how the screen communicates danger or opportunity."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Bus Rush Fever Tips That Help Beginners",
+        "excerpt": "A practical list of habits that make browser game sessions cleaner and less frustrating.",
+        "category": "Strategy",
+        "readTime": "6 min read",
+        "date": "2026-01-05",
+        "icon": "tips",
+        "sections": [
+          {
+            "heading": "Do Not Rush the Easy Moves",
+            "paragraphs": [
+              "Most avoidable mistakes happen because the first obvious move is made too quickly. Read the full layout first.",
+              "A slower start usually creates a cleaner run, especially when the game asks for timing or positioning."
+            ]
+          },
+          {
+            "heading": "Focus on One Improvement",
+            "paragraphs": [
+              "Pick one habit to improve each session: cleaner turns, better aiming, smarter spacing, or fewer panic moves.",
+              "Small improvements are easier to notice and repeat than vague goals like trying to play perfectly."
+            ]
+          },
+          {
+            "heading": "Replay With Purpose",
+            "paragraphs": [
+              "If a run fails, identify the exact choice that made it harder. That is the useful lesson.",
+              "Then restart and adjust that one decision instead of changing everything at once."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "safe-browser-play",
+        "title": "Safe Browser Play Notes for Bus Rush Fever",
+        "excerpt": "What to know about playing free embedded HTML5 games in a browser.",
+        "category": "Safety",
+        "readTime": "4 min read",
+        "date": "2026-01-10",
+        "icon": "safety",
+        "sections": [
+          {
+            "heading": "No Download Needed",
+            "paragraphs": [
+              "The playable route loads in the browser, so there is no need to install a separate application from this site.",
+              "That keeps the experience simple and makes it easier to stop or restart whenever you want."
+            ]
+          },
+          {
+            "heading": "Independent Page",
+            "paragraphs": [
+              "This site is not presented as the official publisher page. It is an independent play and information page.",
+              "The copy is written to describe browser gameplay clearly without implying ownership of the embedded game."
+            ]
+          },
+          {
+            "heading": "Healthy Session Habits",
+            "paragraphs": [
+              "Use short sessions, take breaks, and avoid chasing perfect attempts when attention is fading.",
+              "Games are more enjoyable when the goal is practice and relaxation rather than pressure."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
