@@ -1,10 +1,10 @@
-# Epic Plane
+# Bus Rush Fever
 
-- **Domain:** epicplane.org
-- **Repo:** epicplane
-- **Slug:** epicplane
+- **Domain:** busrushfever.com
+- **Repo:** busrushfever
+- **Slug:** busrushfever
 - **Genre:** Casual
-- **Iframe:** https://epicplane.org
+- **Iframe:** https://busrushfever.com
 
 ## Quick start
 
@@ -20,11 +20,11 @@ To regenerate:
 
 ```bash
 ANTHROPIC_API_KEY=sk-... node ../generate-content.js \
-  --name   "Epic Plane" \
-  --domain "epicplane.org" \
-  --slug   "epicplane" \
+  --name   "Bus Rush Fever" \
+  --domain "busrushfever.com" \
+  --slug   "busrushfever" \
   --genre  "Casual" \
-  --iframe "https://epicplane.org" \
+  --iframe "https://busrushfever.com" \
   --out    ./content/game.json
 ```
 

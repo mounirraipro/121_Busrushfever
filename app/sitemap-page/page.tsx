@@ -4,8 +4,8 @@ import { categories } from '../lib/gameData';
 
 export const metadata: Metadata = {
     title: 'Sitemap – All Pages',
-    description: 'Browse the complete sitemap of Epic Plane. Find every page on our website including games, blog posts, and information pages.',
-    keywords: ['Epic Plane sitemap', 'all pages', 'site navigation'],
+    description: 'Browse the complete sitemap of Bus Rush Fever. Find every page on our website including games, blog posts, and information pages.',
+    keywords: ['Bus Rush Fever sitemap', 'all pages', 'site navigation'],
     alternates: {
         canonical: '/sitemap-page',
     },
@@ -16,7 +16,7 @@ const sections = [
         title: 'Main Pages',
         links: [
             { href: '/', label: 'Home' },
-            { href: '/play', label: 'Play Epic Plane' },
+            { href: '/play', label: 'Play Bus Rush Fever' },
             { href: '/categories', label: 'All Categories' },
             { href: '/how-to-play', label: 'How to Play' },
             { href: '/faq', label: 'FAQ' },
@@ -37,7 +37,7 @@ const sections = [
             { href: '/blog/are-puzzles-good-for-anxiety-and-stress', label: 'Are Puzzles Good for Anxiety and Stress?' },
             { href: '/blog/best-puzzle-routine-for-busy-adults', label: 'Best Puzzle Routine for Busy Adults' },
             { href: '/blog/how-to-choose-the-right-puzzle-difficulty', label: 'How to Choose the Right Puzzle Difficulty' },
-            { href: '/blog/what-is-jigsolitaire', label: 'What is Epic Plane?' },
+            { href: '/blog/what-is-jigsolitaire', label: 'What is Bus Rush Fever?' },
             { href: '/blog/benefits-of-puzzle-games', label: '7 Brain Benefits of Puzzle Games' },
             { href: '/blog/tips-and-tricks', label: 'Pro Tips & Tricks' },
             { href: '/blog/history-of-puzzle-games', label: 'History of Jigsaw & Solitaire' },
@@ -85,7 +85,7 @@ export default function SitemapPage() {
             <div className="page-header">
                 <div className="container">
                     <h1 className="gradient-text">Sitemap</h1>
-                    <p>Browse every page on Epic Plane.</p>
+                    <p>Browse every page on Bus Rush Fever.</p>
                 </div>
             </div>
 

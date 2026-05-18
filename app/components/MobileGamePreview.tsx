@@ -10,7 +10,7 @@ export default function MobileGamePreview() {
 
       <GameIframe
         src="/game/index.html"
-        title="Epic Plane – Try a level"
+        title="Bus Rush Fever – Try a level"
         scrolling="no"
         className="game-iframe-responsive"
       />

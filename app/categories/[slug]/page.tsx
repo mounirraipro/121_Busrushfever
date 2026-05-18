@@ -18,7 +18,7 @@ export async function generateMetadata(
     if (!cat) {
         return {
             title: 'Category Not Found',
-            description: 'The requested category could not be found on Epic Plane.',
+            description: 'The requested category could not be found on Bus Rush Fever.',
             robots: {
                 index: false,
                 follow: false,
@@ -27,13 +27,13 @@ export async function generateMetadata(
     }
 
     const title = `${cat.name} Puzzles – ${cat.levels.length} Levels`;
-    const description = `Play ${cat.name.toLowerCase()} puzzles on Epic Plane. ${cat.description} ${cat.levels.length} levels from easy to expert.`;
+    const description = `Play ${cat.name.toLowerCase()} puzzles on Bus Rush Fever. ${cat.description} ${cat.levels.length} levels from easy to expert.`;
     const canonicalUrl = `/categories/${cat.slug}`;
 
     return {
         title,
         description,
-        keywords: [`${cat.name.toLowerCase()} puzzles`, `${cat.name.toLowerCase()} jigsaw`, `Epic Plane ${cat.name.toLowerCase()}`, 'free puzzle game'],
+        keywords: [`${cat.name.toLowerCase()} puzzles`, `${cat.name.toLowerCase()} jigsaw`, `Bus Rush Fever ${cat.name.toLowerCase()}`, 'free puzzle game'],
         alternates: {
             canonical: canonicalUrl,
         },

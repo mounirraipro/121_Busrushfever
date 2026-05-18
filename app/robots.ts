@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/', '/_next/'],
       },
     ],
-    sitemap: 'https://epicplane.org/sitemap.xml',
+    sitemap: 'https://busrushfever.com/sitemap.xml',
   };
 }

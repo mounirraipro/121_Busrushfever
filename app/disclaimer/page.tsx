@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
     title: 'Disclaimer',
-    description: 'Read the Epic Plane disclaimer regarding website content accuracy, external links, and general use of our free online game.',
-    keywords: ['Epic Plane disclaimer', 'website disclaimer', 'legal disclaimer'],
+    description: 'Read the Bus Rush Fever disclaimer regarding website content accuracy, external links, and general use of our free online game.',
+    keywords: ['Bus Rush Fever disclaimer', 'website disclaimer', 'legal disclaimer'],
 };
 
 export default function DisclaimerPage() {
@@ -18,7 +18,7 @@ export default function DisclaimerPage() {
 
             <div className="page-content">
                 <p>
-                    The information provided by Epic Plane (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) on epicplane.org
+                    The information provided by Bus Rush Fever (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) on busrushfever.com
                     (the &ldquo;Site&rdquo;) is for general informational purposes only. All information on the Site
                     is provided in good faith; however, we make no representation or warranty of any kind,
                     express or implied, regarding the accuracy, adequacy, validity, reliability,
@@ -27,7 +27,7 @@ export default function DisclaimerPage() {
 
                 <h2>Game Disclaimer</h2>
                 <p>
-                    Epic Plane is a browser-based entertainment product provided free of charge. The game
+                    Bus Rush Fever is a browser-based entertainment product provided free of charge. The game
                     is offered &ldquo;as is&rdquo; without any guarantees of performance, uptime, or compatibility with
                     all devices and browsers. While we strive to maintain a smooth experience, we cannot
                     guarantee uninterrupted service or the absence of technical issues.
@@ -59,11 +59,11 @@ export default function DisclaimerPage() {
 
                 <h2>Advertising Disclaimer</h2>
                 <p>
-                    Epic Plane displays third-party advertisements (including Google AdSense ads) to
+                    Bus Rush Fever displays third-party advertisements (including Google AdSense ads) to
                     support the free operation of the Site. We do not control the content of these
                     advertisements and are not responsible for any claims, representations, or promotions
                     made by advertisers. The presence of an advertisement on our Site does not constitute
-                    an endorsement or recommendation by Epic Plane.
+                    an endorsement or recommendation by Bus Rush Fever.
                 </p>
 
                 <h2>Fair Use Disclaimer</h2>
@@ -78,7 +78,7 @@ export default function DisclaimerPage() {
                 <h2>Errors and Omissions Disclaimer</h2>
                 <p>
                     While we have made every attempt to ensure that the information contained in this Site
-                    has been obtained from reliable sources, Epic Plane is not responsible for any errors
+                    has been obtained from reliable sources, Bus Rush Fever is not responsible for any errors
                     or omissions, or for the results obtained from the use of this information. All
                     information on the Site is provided &ldquo;as is,&rdquo; with no guarantee of completeness,
                     accuracy, timeliness, or of the results obtained from the use of this information.

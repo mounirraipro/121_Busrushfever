@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
     title: 'Accessibility Statement',
-    description: 'Epic Plane is committed to digital accessibility. Learn about our efforts to make our game available to everyone.',
-    keywords: ['Epic Plane accessibility', 'accessible game', 'web accessibility statement'],
+    description: 'Bus Rush Fever is committed to digital accessibility. Learn about our efforts to make our game available to everyone.',
+    keywords: ['Bus Rush Fever accessibility', 'accessible game', 'web accessibility statement'],
 };
 
 export default function AccessibilityPage() {
@@ -12,13 +12,13 @@ export default function AccessibilityPage() {
             <div className="page-header">
                 <div className="container">
                     <h1 className="gradient-text">Accessibility Statement</h1>
-                    <p>Our commitment to making Epic Plane accessible to everyone.</p>
+                    <p>Our commitment to making Bus Rush Fever accessible to everyone.</p>
                 </div>
             </div>
 
             <div className="page-content">
                 <p>
-                    Epic Plane is committed to ensuring digital accessibility for people with disabilities.
+                    Bus Rush Fever is committed to ensuring digital accessibility for people with disabilities.
                     We are continually improving the user experience for everyone and applying the relevant
                     accessibility standards to ensure we provide equal access to all of our users.
                 </p>
@@ -43,7 +43,7 @@ export default function AccessibilityPage() {
 
                 <h2>Game Accessibility</h2>
                 <p>
-                    We recognize that the game component of Epic Plane presents additional accessibility
+                    We recognize that the game component of Bus Rush Fever presents additional accessibility
                     challenges due to its visual and interactive nature. We are working on the following
                     improvements:
                 </p>
@@ -67,12 +67,12 @@ export default function AccessibilityPage() {
 
                 <h2>Feedback</h2>
                 <p>
-                    We welcome your feedback on the accessibility of Epic Plane. If you encounter
+                    We welcome your feedback on the accessibility of Bus Rush Fever. If you encounter
                     accessibility barriers or have suggestions for improvement, please let us know:
                 </p>
                 <ul>
                     <li>Contact us through our <a href="/contact">Contact page</a></li>
-                    <li>Email: <strong>accessibility@epicplane.org</strong></li>
+                    <li>Email: <strong>accessibility@busrushfever.com</strong></li>
                 </ul>
                 <p>
                     We try to respond to accessibility feedback within 5 business days and will do our

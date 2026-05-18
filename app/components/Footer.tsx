@@ -47,7 +47,7 @@ export default function Footer() {
                             letterSpacing: '-0.03em',
                             color: 'var(--text-primary)',
                         }}>
-                            Epic Plane
+                            Bus Rush Fever
                         </Link>
                         <p style={{
                             color: 'var(--text-tertiary)',
@@ -100,7 +100,7 @@ export default function Footer() {
                         color: 'var(--text-tertiary)',
                         fontSize: '0.75rem',
                     }}>
-                        © {new Date().getFullYear()} Epic Plane
+                        © {new Date().getFullYear()} Bus Rush Fever
                     </p>
                     <Link href="/sitemap-page" style={{
                         color: 'var(--text-tertiary)',

@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
     title: 'Terms of Service',
-    description: 'Read the Epic Plane Terms of Service. Understand the rules and guidelines for using our free online game.',
-    keywords: ['Epic Plane terms of service', 'terms and conditions', 'usage agreement'],
+    description: 'Read the Bus Rush Fever Terms of Service. Understand the rules and guidelines for using our free online game.',
+    keywords: ['Bus Rush Fever terms of service', 'terms and conditions', 'usage agreement'],
 };
 
 export default function TermsPage() {
@@ -18,13 +18,13 @@ export default function TermsPage() {
 
             <div className="page-content">
                 <p>
-                    Welcome to Epic Plane. By accessing or using our website and game, you agree to be
+                    Welcome to Bus Rush Fever. By accessing or using our website and game, you agree to be
                     bound by these Terms of Service. Please read them carefully before using our services.
                 </p>
 
                 <h2>1. Acceptance of Terms</h2>
                 <p>
-                    By accessing Epic Plane at epicplane.org, you acknowledge that you have read,
+                    By accessing Bus Rush Fever at busrushfever.com, you acknowledge that you have read,
                     understood, and agree to be bound by these Terms of Service and our{' '}
                     <a href="/privacy-policy">Privacy Policy</a>. If you do not agree to these terms,
                     please do not use our website.
@@ -32,31 +32,31 @@ export default function TermsPage() {
 
                 <h2>2. Description of Service</h2>
                 <p>
-                    Epic Plane provides a free, browser-based game. Epic Plane is a free, browser-based game experience.
+                    Bus Rush Fever provides a free, browser-based game. Bus Rush Fever is a free, browser-based game experience.
                     The service includes the game itself, educational content, blog articles, and related resources.
                 </p>
 
                 <h2>3. User Eligibility</h2>
                 <p>
-                    Epic Plane is available to users of all ages. However, users under 13 years of age
+                    Bus Rush Fever is available to users of all ages. However, users under 13 years of age
                     should use the service only under parental supervision. We encourage parents and guardians
                     to review our <a href="/parents">Parents & Safety Guide</a>.
                 </p>
 
                 <h2>4. Intellectual Property</h2>
                 <p>
-                    All content on Epic Plane — including but not limited to the game design, code, images,
-                    text, graphics, logos, and audio — is the intellectual property of Epic Plane or its
+                    All content on Bus Rush Fever — including but not limited to the game design, code, images,
+                    text, graphics, logos, and audio — is the intellectual property of Bus Rush Fever or its
                     licensors. You may not reproduce, distribute, modify, or create derivative works from
                     any content without prior written permission.
                 </p>
                 <p>
                     You are granted a limited, non-exclusive, non-transferable license to access and use
-                    Epic Plane for personal, non-commercial purposes only.
+                    Bus Rush Fever for personal, non-commercial purposes only.
                 </p>
 
                 <h2>5. Acceptable Use</h2>
-                <p>When using Epic Plane, you agree NOT to:</p>
+                <p>When using Bus Rush Fever, you agree NOT to:</p>
                 <ul>
                     <li>Use the service for any illegal or unauthorized purpose</li>
                     <li>Attempt to gain unauthorized access to our systems or servers</li>
@@ -70,13 +70,13 @@ export default function TermsPage() {
                 <h2>6. User-Generated Content</h2>
                 <p>
                     If you submit feedback, suggestions, or other content through our contact form, you
-                    grant Epic Plane a non-exclusive, royalty-free, perpetual license to use, modify,
+                    grant Bus Rush Fever a non-exclusive, royalty-free, perpetual license to use, modify,
                     and incorporate that content into our services.
                 </p>
 
                 <h2>7. Advertisements</h2>
                 <p>
-                    Epic Plane displays advertisements from third-party ad networks, including Google
+                    Bus Rush Fever displays advertisements from third-party ad networks, including Google
                     AdSense. These advertisements help us keep the game free for all users. We are not
                     responsible for the content or accuracy of third-party advertisements. Clicking on
                     advertisements is at your own risk.
@@ -84,14 +84,14 @@ export default function TermsPage() {
 
                 <h2>8. Disclaimer of Warranties</h2>
                 <p>
-                    Epic Plane is provided &ldquo;as is&rdquo; and &ldquo;as available&rdquo; without warranties of any
+                    Bus Rush Fever is provided &ldquo;as is&rdquo; and &ldquo;as available&rdquo; without warranties of any
                     kind, either express or implied. We do not guarantee that the service will be
                     uninterrupted, error-free, or free of viruses or other harmful components.
                 </p>
 
                 <h2>9. Limitation of Liability</h2>
                 <p>
-                    To the fullest extent permitted by law, Epic Plane and its operators shall not be
+                    To the fullest extent permitted by law, Bus Rush Fever and its operators shall not be
                     liable for any indirect, incidental, special, consequential, or punitive damages arising
                     out of or related to your use of the service. Our total liability for any claim shall
                     not exceed the amount you paid to use the service (which is zero, as the service is free).
@@ -113,7 +113,7 @@ export default function TermsPage() {
 
                 <h2>12. Termination</h2>
                 <p>
-                    We reserve the right to suspend or terminate your access to Epic Plane at our sole
+                    We reserve the right to suspend or terminate your access to Bus Rush Fever at our sole
                     discretion, without notice, for conduct that we believe violates these Terms of Service
                     or is harmful to other users, us, or third parties.
                 </p>
@@ -129,7 +129,7 @@ export default function TermsPage() {
                 <p>
                     If you have any questions about these Terms of Service, please reach out through
                     our <a href="/contact">Contact page</a> or email us at{' '}
-                    <strong>legal@epicplane.org</strong>.
+                    <strong>legal@busrushfever.com</strong>.
                 </p>
             </div>
         </>

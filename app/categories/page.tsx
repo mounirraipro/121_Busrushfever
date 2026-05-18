@@ -5,8 +5,8 @@ import { categories } from '../lib/gameData';
 export const metadata: Metadata = {
   title: 'Puzzle Categories',
   description:
-    'Browse all Epic Plane puzzle categories. Explore Animals, Nature, Cities, Art, and Food levels with beginner-to-expert difficulty.',
-  keywords: ['puzzle categories', 'jigsaw categories', 'Epic Plane categories'],
+    'Browse all Bus Rush Fever puzzle categories. Explore Animals, Nature, Cities, Art, and Food levels with beginner-to-expert difficulty.',
+  keywords: ['puzzle categories', 'jigsaw categories', 'Bus Rush Fever categories'],
   alternates: {
     canonical: '/categories',
   },

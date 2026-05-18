@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next';
 import { categories } from './lib/gameData';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://epicplane.org';
+  const baseUrl = 'https://busrushfever.com';
   const now = new Date();
 
   // Static pages

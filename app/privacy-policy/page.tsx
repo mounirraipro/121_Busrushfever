@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
     title: 'Privacy Policy',
-    description: 'Read the Epic Plane Privacy Policy. Learn how we collect, use, and protect your personal data when you use our free online game.',
-    keywords: ['Epic Plane privacy policy', 'data protection', 'cookie policy'],
+    description: 'Read the Bus Rush Fever Privacy Policy. Learn how we collect, use, and protect your personal data when you use our free online game.',
+    keywords: ['Bus Rush Fever privacy policy', 'data protection', 'cookie policy'],
 };
 
 export default function PrivacyPolicyPage() {
@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
 
             <div className="page-content">
                 <p>
-                    At Epic Plane, we are committed to protecting your privacy and ensuring transparency
+                    At Bus Rush Fever, we are committed to protecting your privacy and ensuring transparency
                     about how your data is handled. This Privacy Policy explains what information we collect,
                     how we use it, and your rights regarding your personal data.
                 </p>
@@ -82,12 +82,12 @@ export default function PrivacyPolicyPage() {
                 <ul>
                     <li>With service providers who assist in operating our website (subject to confidentiality agreements)</li>
                     <li>If required by law, regulation, or legal process</li>
-                    <li>To protect the rights, property, or safety of Epic Plane, our users, or the public</li>
+                    <li>To protect the rights, property, or safety of Bus Rush Fever, our users, or the public</li>
                 </ul>
 
                 <h2>5. Children&apos;s Privacy</h2>
                 <p>
-                    Epic Plane is designed to be family-friendly. We do not knowingly collect personal
+                    Bus Rush Fever is designed to be family-friendly. We do not knowingly collect personal
                     information from children under the age of 13. If you are a parent or guardian and
                     believe that your child has provided us with personal information, please{' '}
                     <a href="/contact">contact us</a> immediately so we can take appropriate action.
@@ -144,7 +144,7 @@ export default function PrivacyPolicyPage() {
                 <p>
                     If you have any questions about this Privacy Policy or our data practices, please
                     contact us through our <a href="/contact">Contact page</a> or email us at{' '}
-                    <strong>privacy@epicplane.org</strong>.
+                    <strong>privacy@busrushfever.com</strong>.
                 </p>
             </div>
         </>

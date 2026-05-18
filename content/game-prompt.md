@@ -1,4 +1,4 @@
-# AI Content Prompt - Epic Plane
+# AI Content Prompt - Bus Rush Fever
 > Paste this entire file into your AI. It will return a complete game.json.
 
 ---
@@ -14,9 +14,9 @@ Return ONLY the completed JSON - no markdown fences, no explanation, no comments
 
 | Field      | Value       |
 |------------|-------------|
-| Name       | Epic Plane      |
-| Domain     | epicplane.org    |
-| Slug       | epicplane      |
+| Name       | Bus Rush Fever      |
+| Domain     | busrushfever.com    |
+| Slug       | busrushfever      |
 | Genre      | Shooting         |
 | Iframe URL | /game/index.html    |
 
@@ -86,9 +86,9 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
 ## JSON TO FILL IN
 
 {
-  "name": "Epic Plane",
-  "domain": "epicplane.org",
-  "slug": "epicplane",
+  "name": "Bus Rush Fever",
+  "domain": "busrushfever.com",
+  "slug": "busrushfever",
   "genre": "Shooting",
   "iframeUrl": "/game/index.html",
 
@@ -109,7 +109,7 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
       { "value": "100%", "label": "Free Forever" }
     ],
     "about": {
-      "kicker": "What is Epic Plane?",
+      "kicker": "What is Bus Rush Fever?",
       "headline": "...",
       "paragraph1": "...",
       "paragraph2": "..."
@@ -141,11 +141,11 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
       { "icon": "music",  "title": "...", "desc": "..." }
     ],
     "faq": [
-      { "q": "What is Epic Plane?",             "a": "..." },
-      { "q": "Is Epic Plane free?",             "a": "..." },
-      { "q": "Does Epic Plane work on mobile?", "a": "..." },
+      { "q": "What is Bus Rush Fever?",             "a": "..." },
+      { "q": "Is Bus Rush Fever free?",             "a": "..." },
+      { "q": "Does Bus Rush Fever work on mobile?", "a": "..." },
       { "q": "How many levels are there?",  "a": "..." },
-      { "q": "Is Epic Plane safe for kids?",    "a": "..." },
+      { "q": "Is Bus Rush Fever safe for kids?",    "a": "..." },
       { "q": "Do I need an account?",       "a": "..." }
     ],
     "cta": {
@@ -165,13 +165,13 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
 
   "faqPage": {
     "items": [
-      { "q": "Is Epic Plane really free?",          "a": "..." },
+      { "q": "Is Bus Rush Fever really free?",          "a": "..." },
       { "q": "What devices can I play on?",      "a": "..." },
       { "q": "How does the game work?",          "a": "..." },
       { "q": "How many levels are there?",       "a": "..." },
       { "q": "Can I play offline?",              "a": "..." },
       { "q": "Is my progress saved?",            "a": "..." },
-      { "q": "Is Epic Plane safe for children?",     "a": "..." },
+      { "q": "Is Bus Rush Fever safe for children?",     "a": "..." },
       { "q": "Do I need to create an account?",  "a": "..." }
     ]
   },
@@ -201,14 +201,14 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
     "posts": [
       {
         "slug": "getting-started",
-        "title": "Getting Started with Epic Plane: A Complete Beginner's Guide",
+        "title": "Getting Started with Bus Rush Fever: A Complete Beginner's Guide",
         "excerpt": "...",
         "category": "Guide",
         "readTime": "5 min read",
         "date": "2026-01-01",
         "icon": "🗺️",
         "sections": [
-          { "heading": "What Is Epic Plane?",    "paragraphs": ["...", "..."] },
+          { "heading": "What Is Bus Rush Fever?",    "paragraphs": ["...", "..."] },
           { "heading": "How to Open the Game",    "paragraphs": ["...", "..."] },
           { "heading": "Your First Five Minutes", "paragraphs": ["...", "..."] },
           { "heading": "Ready to Play?",          "paragraphs": ["..."] }
@@ -216,7 +216,7 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
       },
       {
         "slug": "tips-and-tricks",
-        "title": "Top Tips & Tricks for Epic Plane",
+        "title": "Top Tips & Tricks for Bus Rush Fever",
         "excerpt": "...",
         "category": "Strategy",
         "readTime": "7 min read",
@@ -231,7 +231,7 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
       },
       {
         "slug": "game-benefits",
-        "title": "The Cognitive Benefits of Playing Epic Plane",
+        "title": "The Cognitive Benefits of Playing Bus Rush Fever",
         "excerpt": "...",
         "category": "Science",
         "readTime": "6 min read",
@@ -246,7 +246,7 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
       },
       {
         "slug": "how-to-improve",
-        "title": "How to Get Better at Epic Plane",
+        "title": "How to Get Better at Bus Rush Fever",
         "excerpt": "...",
         "category": "Strategy",
         "readTime": "8 min read",
@@ -261,14 +261,14 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
       },
       {
         "slug": "parents-guide",
-        "title": "Epic Plane for Kids: A Parent's Complete Guide",
+        "title": "Bus Rush Fever for Kids: A Parent's Complete Guide",
         "excerpt": "...",
         "category": "Family",
         "readTime": "6 min read",
         "date": "2026-01-20",
         "icon": "👨‍👩‍👧",
         "sections": [
-          { "heading": "Is Epic Plane Safe for Children?", "paragraphs": ["...", "..."] },
+          { "heading": "Is Bus Rush Fever Safe for Children?", "paragraphs": ["...", "..."] },
           { "heading": "What Will My Child Learn?",    "paragraphs": ["...", "..."] },
           { "heading": "Tips for Healthy Screen Time", "paragraphs": ["...", "..."] },
           { "heading": "COPPA Compliance",             "paragraphs": ["...", "..."] }

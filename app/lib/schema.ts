@@ -1,6 +1,6 @@
 import { ArticleMeta } from './articleMeta';
 
-const SITE_URL = 'https://epicplane.org';
+const SITE_URL = 'https://busrushfever.com';
 const AUTHOR_NAME = 'Lahcen Aharouane';
 const AUTHOR_URL = `${SITE_URL}/about`;
 const ORG_LOGO = `${SITE_URL}/og-image.png`;
@@ -9,7 +9,7 @@ export function buildOrganizationSchema() {
     return {
         '@context': 'https://schema.org',
         '@type': 'Organization',
-        name: 'Epic Plane',
+        name: 'Bus Rush Fever',
         url: SITE_URL,
         logo: {
             '@type': 'ImageObject',
@@ -28,9 +28,9 @@ export function buildWebSiteSchema() {
     return {
         '@context': 'https://schema.org',
         '@type': 'WebSite',
-        name: 'Epic Plane',
+        name: 'Bus Rush Fever',
         url: SITE_URL,
-        description: 'Play Epic Plane free online — no download, no account needed.',
+        description: 'Play Bus Rush Fever free online — no download, no account needed.',
         potentialAction: {
             '@type': 'SearchAction',
             target: {
@@ -46,7 +46,7 @@ export function buildWebApplicationSchema() {
     return {
         '@context': 'https://schema.org',
         '@type': 'WebApplication',
-        name: 'Epic Plane',
+        name: 'Bus Rush Fever',
         url: SITE_URL,
         applicationCategory: 'GameApplication',
         operatingSystem: 'Any',
@@ -57,7 +57,7 @@ export function buildWebApplicationSchema() {
             priceCurrency: 'USD',
         },
         description:
-            'A free browser-based game. Play Epic Plane online instantly.',
+            'A free browser-based game. Play Bus Rush Fever online instantly.',
         author: {
             '@type': 'Person',
             name: AUTHOR_NAME,
@@ -65,7 +65,7 @@ export function buildWebApplicationSchema() {
         },
         publisher: {
             '@type': 'Organization',
-            name: 'Epic Plane',
+            name: 'Bus Rush Fever',
             url: SITE_URL,
         },
     };
@@ -89,7 +89,7 @@ export function buildBlogPostingSchema(article: ArticleMeta) {
         },
         publisher: {
             '@type': 'Organization',
-            name: 'Epic Plane',
+            name: 'Bus Rush Fever',
             url: SITE_URL,
             logo: {
                 '@type': 'ImageObject',

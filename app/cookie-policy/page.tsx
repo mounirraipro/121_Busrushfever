@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
     title: 'Cookie Policy',
-    description: 'Learn about the cookies Epic Plane uses, why we use them, and how to manage your cookie preferences.',
-    keywords: ['Epic Plane cookies', 'cookie policy', 'cookie preferences', 'tracking cookies'],
+    description: 'Learn about the cookies Bus Rush Fever uses, why we use them, and how to manage your cookie preferences.',
+    keywords: ['Bus Rush Fever cookies', 'cookie policy', 'cookie preferences', 'tracking cookies'],
 };
 
 export default function CookiePolicyPage() {
@@ -18,7 +18,7 @@ export default function CookiePolicyPage() {
 
             <div className="page-content">
                 <p>
-                    This Cookie Policy explains what cookies are, how Epic Plane uses them, and how you can
+                    This Cookie Policy explains what cookies are, how Bus Rush Fever uses them, and how you can
                     control your cookie preferences. By continuing to use our website, you consent to the use
                     of cookies as described in this policy.
                 </p>
@@ -32,7 +32,7 @@ export default function CookiePolicyPage() {
                 </p>
 
                 <h2>How We Use Cookies</h2>
-                <p>Epic Plane uses cookies for the following purposes:</p>
+                <p>Bus Rush Fever uses cookies for the following purposes:</p>
 
                 <h3>Essential Cookies</h3>
                 <p>
@@ -47,7 +47,7 @@ export default function CookiePolicyPage() {
 
                 <h3>Analytics Cookies</h3>
                 <p>
-                    We currently do not use any tracking or analytics cookies (such as Google Analytics) on Epic Plane.
+                    We currently do not use any tracking or analytics cookies (such as Google Analytics) on Bus Rush Fever.
                 </p>
 
                 <h3>Advertising Cookies</h3>
@@ -117,7 +117,7 @@ export default function CookiePolicyPage() {
                 <h2>Contact Us</h2>
                 <p>
                     If you have any questions about our use of cookies, please <a href="/contact">contact us</a>{' '}
-                    or email <strong>privacy@epicplane.org</strong>.
+                    or email <strong>privacy@busrushfever.com</strong>.
                 </p>
             </div>
         </>

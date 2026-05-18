@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-const SUPPORT_EMAIL = 'hello@epicplane.org';
+const SUPPORT_EMAIL = 'hello@busrushfever.com';
 
 export default function ContactForm() {
     const [submitted, setSubmitted] = useState(false);
@@ -16,7 +16,7 @@ export default function ContactForm() {
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
 
-        const mailSubject = `[Epic Plane] ${formData.subject || 'General Inquiry'}`;
+        const mailSubject = `[Bus Rush Fever] ${formData.subject || 'General Inquiry'}`;
         const mailBody = [
             `Name: ${formData.name}`,
             `Email: ${formData.email}`,

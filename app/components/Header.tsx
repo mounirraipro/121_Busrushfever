@@ -35,7 +35,7 @@ export default function Header() {
           letterSpacing: '-0.03em',
           color: 'var(--text-primary)',
         }}>
-          Epic Plane
+          Bus Rush Fever
         </Link>
 
         <nav className="desktop-nav" style={{

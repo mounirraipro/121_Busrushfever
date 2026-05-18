@@ -4,7 +4,7 @@ import { usePathname } from 'next/navigation';
 import { articleMeta } from '../lib/articleMeta';
 import { buildBlogPostingSchema, buildBreadcrumbSchema } from '../lib/schema';
 
-const SITE_URL = 'https://epicplane.org';
+const SITE_URL = 'https://busrushfever.com';
 
 export default function ArticleSchemaInjector() {
     const pathname = usePathname();

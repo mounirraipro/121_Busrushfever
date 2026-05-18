@@ -235,11 +235,11 @@ export default function HeroSection() {
                 </p>
 
                 <h1 ref={headlineRef}>
-                    Play Epic Plane — free in your browser
+                    Play Bus Rush Fever — free in your browser
                 </h1>
 
                 <p className="hero-subtitle" ref={subtitleRef}>
-                    Epic Plane is 100% free, instant play. No download, no account.
+                    Bus Rush Fever is 100% free, instant play. No download, no account.
                 </p>
 
                 <div className="hero-cta" ref={ctaRef}>

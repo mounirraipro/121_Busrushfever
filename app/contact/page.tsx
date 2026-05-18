@@ -1,12 +1,12 @@
 import type { Metadata } from 'next';
 import ContactForm from './ContactForm';
 
-const SUPPORT_EMAIL = 'hello@epicplane.org';
+const SUPPORT_EMAIL = 'hello@busrushfever.com';
 
 export const metadata: Metadata = {
-    title: 'Contact Epic Plane',
-    description: 'Get in touch with the Epic Plane team for support, feedback, partnerships, accessibility concerns, or privacy questions.',
-    keywords: ['contact Epic Plane', 'Epic Plane support', 'game contact'],
+    title: 'Contact Bus Rush Fever',
+    description: 'Get in touch with the Bus Rush Fever team for support, feedback, partnerships, accessibility concerns, or privacy questions.',
+    keywords: ['contact Bus Rush Fever', 'Bus Rush Fever support', 'game contact'],
     alternates: {
         canonical: '/contact',
     },
