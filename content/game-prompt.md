@@ -46,7 +46,7 @@ Use this knowledge to write accurate, specific content. Do NOT treat this as a g
 ### What to avoid
 - Placeholder text or obvious template phrases ("exciting journey", "look no further").
 - Repeating the game name more than once per short paragraph.
-- Generic gaming cliches ("immersive", "epic", "addictive" as the first word).
+- Generic gaming cliches ("immersive", "addictive" as the first word).
 - First-person plural ("we", "our team", "our game").
 
 ### Stats block (homepage.stats)

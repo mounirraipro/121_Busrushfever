@@ -5,12 +5,13 @@ import React, { useRef, useState, useEffect } from 'react';
 interface GameIframeProps {
   src: string;
   title: string;
+  gameTitle?: string;
   className?: string;
   style?: React.CSSProperties;
   scrolling?: string;
 }
 
-export default function GameIframe({ src, title, className, style, scrolling }: GameIframeProps) {
+export default function GameIframe({ src, title, gameTitle = title.replace(/\s+Game$/, ''), className, style, scrolling }: GameIframeProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const iframeRef    = useRef<HTMLIFrameElement>(null);
   const [isFullscreen, setIsFullscreen]             = useState(false);
@@ -79,7 +80,7 @@ export default function GameIframe({ src, title, className, style, scrolling }: 
   const handleShare = async () => {
     try {
       if (navigator.share) {
-        await navigator.share({ title: 'Bus Rush Fever', text: 'Play this free puzzle game!', url: window.location.href });
+        await navigator.share({ title: gameTitle, text: 'Play this free puzzle game!', url: window.location.href });
       } else {
         await navigator.clipboard.writeText(window.location.href);
       }
@@ -134,14 +135,14 @@ export default function GameIframe({ src, title, className, style, scrolling }: 
 
         {/* Play overlay — shown before first click */}
         {!gameStarted && !inFull && (
-          <div className="game-play-overlay" onClick={handleStartGame} role="button" aria-label="Click to play Bus Rush Fever">
+          <div className="game-play-overlay" onClick={handleStartGame} role="button" aria-label={`Click to play ${gameTitle}`}>
             <div className="game-play-btn">
               <svg width="28" height="28" viewBox="0 0 24 24" fill="white" stroke="none">
                 <polygon points="5 3 19 12 5 21 5 3" />
               </svg>
             </div>
             <div className="game-play-label">
-              <strong>Play Bus Rush Fever</strong>
+              <strong>Play {gameTitle}</strong>
               <span>Click anywhere to start</span>
             </div>
           </div>

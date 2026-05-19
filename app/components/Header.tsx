@@ -1,6 +1,7 @@
 'use client';
 import { useState } from 'react';
 import Link from 'next/link';
+import gameContent from '../lib/gameContent';
 
 const navLinks = [
   { href: '/play', label: 'Play' },
@@ -35,7 +36,7 @@ export default function Header() {
           letterSpacing: '-0.03em',
           color: 'var(--text-primary)',
         }}>
-          Bus Rush Fever
+          {gameContent.name}
         </Link>
 
         <nav className="desktop-nav" style={{

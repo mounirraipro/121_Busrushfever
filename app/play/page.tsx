@@ -46,6 +46,7 @@ export default function PlayPage() {
           <GameIframe
             src={iframeUrl}
             title={`${name} Game`}
+            gameTitle={name}
             className="play-iframe"
           />
         </main>
